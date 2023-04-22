@@ -22,7 +22,7 @@
 ### Connect With Me :postbox:
 
 [![LinkedIn](https://img.shields.io/badge/HyunLee-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haijun-si-ba369b203/)
-// [![Behance](https://img.shields.io/badge/DesignPortfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white)]
+###[![Behance](https://img.shields.io/badge/DesignPortfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white)]
 [![Gmail](https://img.shields.io/badge/hyun&mdash;joon.lee@vanderbilt.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haijun.si@tufts.edu)
 
 <sub><sup>*psssst here's a little joke before you go..*</sub></sup>
