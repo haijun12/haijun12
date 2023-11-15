@@ -10,8 +10,8 @@
 *What I'm Up To :white_small_square::white_small_square::white_small_square:* 
 
 :chart_with_upwards_trend: Building Full-Stack Development Skills\
-:speech_balloon: Working for jumbocode as a developer\
-:japanese_goblin: Learning programming languages and database systems\
+:speech_balloon: Working for Tufts as a Programming Languages TA\
+:japanese_goblin: Building a programming lanaguage and implementing a compiler\
 
 <br>
 
