@@ -2,7 +2,7 @@
 
 
 <div align = "center">
-  <h4>I am a coder, developer, and tech enthusiast.</h4> <br> :white_medium_square:
+  <h4>I am a student, developer, and tech enthusiast.</h4> <br> :white_medium_square:
 </div>
 
 <br>
@@ -11,7 +11,7 @@
 
 :chart_with_upwards_trend: Building Full-Stack Development Skills\
 :speech_balloon: Working for Tufts as a Programming Languages TA\
-:japanese_goblin: Building a programming lanaguage and implementing a compiler\
+:japanese_goblin: Senior year at Tufts University\
 
 <br>
 
